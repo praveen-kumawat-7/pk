@@ -1,0 +1,18 @@
+// change directories
+cd D:\bmtc
+
+
+// load the files
+git add . 
+
+
+// to check status
+git status
+
+
+// FINALISING changes
+git commit -m "type ur msg here"
+
+
+// push to GitHub server
+git push
